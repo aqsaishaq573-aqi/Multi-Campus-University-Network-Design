@@ -364,12 +364,4 @@ This project is created for **educational purposes** as part of a university cou
 
 If you found this project helpful or educational, please consider giving it a star!
 
----
 
-<div align="center">
-
-### 🌐 Happy Networking! 🚀
-
-Made with ❤️ for learning enterprise network design
-
-</div>
